@@ -1,0 +1,65 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directories
+coverage/
+.nyc_output/
+
+# Build outputs
+dist/
+build/
+out/
+tmp/
+temp/
+
+# Dependency directories
+bower_components/
+
+# Environment files
+.env
+.env.*.local
+
+# Next.js / Nuxt.js build output
+.next/
+.nuxt/
+out/
+
+# SvelteKit
+.svelte-kit/
+
+# Parcel
+.cache/
+.parcel-cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# Lockfiles (optional, if you don’t want them in git)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
